@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-px1y+=fqerd05yz3vq43mwyww%z2uplwvw^_nfdxf=e^2#(lej
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['emtavms.com','www.emtavms.com','54.206.7.132','*']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
